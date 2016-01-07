@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default.png</file>
+        <file>Button.qml</file>
+        <file>Button2.qml</file>
+        <file>btcontrol.qml</file>
+        <file>UI.qml</file>
+        <file>btcontrolForm.ui.qml</file>
+        <file>ButtonOrange.qml</file>
+    </qresource>
+</RCC>
